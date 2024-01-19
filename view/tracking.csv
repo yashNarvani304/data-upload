@@ -1,0 +1,4 @@
+eWaybilldata,userid,vehicle_location,validity_end,status,creation_date,expiry_date,bulk_uploadId
+ABC123,user123,CityX,31-12-2023,active,01-01-2023,31-12-2023,1234
+XYZ456,user456,CityY,15-12-2023,in_transit,10-02-2023,15-12-2023,4567
+LMN789,user789,CityZ,30-11-2023,delivered,05-03-2023,30-11-2023,7890
